@@ -1,2 +1,1 @@
-upstream 수정했다
-remote가 방해
+다시 다 지웠음 local
