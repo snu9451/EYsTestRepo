@@ -1,1 +1,2 @@
-local 다 지웠다
+upstream 수정했다
+remote가 방해
