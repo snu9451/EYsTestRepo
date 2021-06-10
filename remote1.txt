@@ -1,2 +1,6 @@
 dd
+<<<<<<< HEAD
 local들림
+=======
+remote가 방해
+>>>>>>> upstream/main
